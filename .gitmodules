@@ -1,0 +1,3 @@
+[submodule "CTFd/plugins/ctfd-plugin-choice-challenge"]
+	path = CTFd/plugins/ctfd-plugin-choice-challenge
+	url = git@github.com:ericdum/ctfd-plugin-choice-challenge.git
